@@ -4,6 +4,8 @@
   "description": "Liri",
   "main": "keys.js",
   "dependencies": {
+    "chalk": "^2.3.0",
+    "dot-env": "0.0.1",
     "fs": "0.0.2",
     "node-spotify-api": "^1.0.7",
     "request": "^2.83.0",
